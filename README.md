@@ -158,7 +158,7 @@ A complete 10-slide evaluator-winning pitch deck structure is prepared for **Tea
 ## 🎬 Item 10: Live Demonstration & Evaluator Guide
 
 To evaluate the application live:
-1. Open PromptShield at `http://localhost:8000` (or your live Render URL).
+1. Open PromptShield at https://promptshield-ai-n3nf.onrender.com/ .
 2. Click any of the **Quick Presets** at the top:
    - **Bank KYC Expiry:** Demonstrates credential harvesting detection, high-risk score (94/100), highlighted urgency flags, and bank safety checklist.
    - **Job Offer Scam:** Demonstrates advance-fee task scam detection (88/100) and warning against payment deposits.
